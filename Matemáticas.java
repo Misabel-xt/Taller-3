@@ -2,9 +2,11 @@
 //1. Define una clase Matematicas que tenga métodos static para realizar las operaciones básicas (suma, resta, multiplicación, división).
 //2. Crea una clase de prueba que llame a estos métodos y muestre los resultados.
 public class Matemáticas {
+    //Creación de metodos estaticos
     static double n1; 
     static double n2;
     
+    //Metodos estaticos de las operaciones 
     public static double suma(double n1,double n2){
         return n1 + n2;
     }
